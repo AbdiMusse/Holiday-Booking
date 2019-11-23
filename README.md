@@ -9,8 +9,8 @@ DATE:
 30/11/2017
   
 PURPOSE OF PROJECT:
-This is part of many small projects that I have done in Java during my first year in Salford University where I received % for it.
+This is part of many small projects that I have done in Java during my first year in Salford University where I received 78% for it.
 
-The goal of this simple app is to simulate a user interacting with a website in order to purchase a holiday for themsevles and some friends.
+The goal of this simple application is to test my knowledge on Java by creating a simulation of a user interacting with a website in order to purchase a holiday for themsevles and some friends.
 
 Feel free to have a look around and contact me, leave comments or issue requests with things I could have done better - I'm all about learning how to write better code.
