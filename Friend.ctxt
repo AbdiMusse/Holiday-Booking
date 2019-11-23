@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Friend
+comment0.text=\r\n\ This\ is\ a\ friend\ class\ that\ represent\ a\ person.\r\n\r\n\ @author\ (Abdi-rahman\ Musse)\r\n\ @version\ (02/12/2017)\r\n
+comment1.params=newName\ amountToSpend
+comment1.target=Friend(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Friend\r\n
+comment2.params=newMoney
+comment2.target=void\ setMoney(double)
+comment2.text=\r\n\ This\ allows\ us\ to\ change\ the\ amount\ of\ money\ the\ person\ has\r\n
+comment3.params=newName
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ This\ allows\ us\ to\ chage\ the\ name\ of\ the\ friend\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ This\ returns\ the\ friends\ detail\r\n
+comment5.params=
+comment5.target=double\ getMoney()
+comment5.text=\r\n\ This\ returns\ the\ amount\ of\ moeny\ the\ friend\ has\r\n
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment6.text=\r\n\ This\ returns\ the\ name\ of\ the\ friend\r\n
+numComments=7
