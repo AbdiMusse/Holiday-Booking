@@ -14,3 +14,5 @@ This is part of many small projects that I have done in Java during my first yea
 The goal of this simple application is to test my knowledge on Java by creating a simulation of a user interacting with a website in order to purchase a holiday for themsevles and some friends.
 
 Feel free to have a look around and contact me, leave comments or issue requests with things I could have done better - I'm all about learning how to write better code.
+
+P.S - This project doesn't have a main method. You call the classes and methods manually. However, there is a Main Class you can instantiate by right clicking on the class and creating an object of that class. That class is used for testing where it runs through the main part of the code.
